@@ -1,11 +1,11 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
-//Calculate distance between two places in Nautical Miles.
+//Calculate distance between two places in Nautical Miles..
 
 int main()
 {
-    float lat1, lat2, lon1, lon2, d;
+    float lat1, lat2, lon1, lon2, d; 
 
     printf("\nEnter Latitude and Longitude of Place 1:");
     scanf("%f%f", &lat1, &lon1);
